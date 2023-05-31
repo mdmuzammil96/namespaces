@@ -1,0 +1,35 @@
+namespaces:
+  - name: accuknox-dev-cluster-entity-daemon
+  - name: accuknox-dev-data-offloader
+  - name: accuknox-dev-deo
+  - name: accuknox-dev-discovered-policy-daemon
+  - name: accuknox-dev-divy
+  - name: accuknox-dev-knox-gateway
+  - name: accuknox-dev-mongodb
+  - name: accuknox-dev-pulsar
+  - name: accuknox-dev-saltstack
+  - name: accuknox-dev-shared-informer-service
+  - name: accuknox-dev-vulnerability-scanner
+  - name: accuknox-dev-ui
+  - name: accuknox-dev-soarcast
+  - name: accuknox-dev-vault
+  - name: accuknox-dev-divy-minion
+  - name: accuknox-dev-istio-ext-authz
+  - name: accuknox-dev-spire
+  - name: istio-system
+  - name: rabbitmq-system
+  - name: rabbitmq
+
+
+istioInjectNamespaces:
+  - name: accuknox-dev-cluster-mgmt
+  - name: accuknox-dev-cluster-onboard
+  - name: accuknox-dev-datapipeline-api
+  - name: accuknox-dev-integration
+  - name: accuknox-dev-label-service
+  - name: accuknox-dev-observability-api
+  - name: accuknox-dev-policy-provider-service
+  - name: accuknox-dev-policy-service
+  - name: accuknox-dev-policy-storage-service
+  - name: accuknox-dev-vulnerability-service
+  - name: accuknox-dev-user-mgmt
